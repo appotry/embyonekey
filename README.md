@@ -15,17 +15,17 @@
 ### 步骤说明
 <br/>0. 在群辉中安装好Web Station跟EMBY
 <br/>1. 打开Web Station如图所示新建虚拟主机
-<br><img src="https://github.com/s1oz/embyonekey/blob/master/webstation.png"><br>
+<br><img src="https://github.com/appotry/embyonekey/blob/master/webstation.png"><br>
 <br/>2. 打开群辉控制面板-安全性-证书
 <br/>点击新建-添加新证书-导入证书-选择下载的私钥跟证书
 <br/>证书下载地址
 ```
-https://raw.githubusercontent.com/s1oz/embyonekey/master/mb3admin.com.cert.pem
-https://raw.githubusercontent.com/s1oz/embyonekey/master/mb3admin.com.key.pem
+https://raw.githubusercontent.com/appotry/embyonekey/master/mb3admin.com.cert.pem
+https://raw.githubusercontent.com/appotry/embyonekey/master/mb3admin.com.key.pem
 ```
-<br><img src="https://github.com/s1oz/embyonekey/blob/master/cert0.png"><br>
+<br><img src="https://github.com/appotry/embyonekey/blob/master/cert0.png"><br>
 <br/>3. 保存后在配置中将mb3admin.com的证书设置为刚导入的的证书
-<br><img src="https://github.com/s1oz/embyonekey/blob/master/cert1.png"><br>
+<br><img src="https://github.com/appotry/embyonekey/blob/master/cert1.png"><br>
 
 
 #### 劫持mb3admin伪站
