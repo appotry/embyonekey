@@ -80,11 +80,11 @@ ssh中运行命令查看是否正确返回值
 
 <br/>如图,打开即可拥有会员黄标
 <br/>
-<br/>![](https://github.com/s1oz/embyonekey/blob/master/ko.png)
+<br/>![](https://github.com/appotry/embyonekey/blob/master/ko.png)
 <br/>
 <br/>在Emby Premiere中输入任何秘钥都可以激活成功
 <br/>
-<br/>![](https://github.com/s1oz/embyonekey/blob/master/ko1.png)
+<br/>![](https://github.com/appotry/embyonekey/blob/master/ko1.png)
 
 #### 客户端证书安装
 如服务器正常白嫖后,客户端还是无法正确显示,一般是证书不正确,请在客户端安装证书
